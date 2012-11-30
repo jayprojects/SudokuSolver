@@ -1,4 +1,9 @@
-﻿using System;
+﻿/**
+ * @author Jay Das <jay11421@gmail.com>
+ * @copyright 2012 Jay Das
+ * @namespace sudoku
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
