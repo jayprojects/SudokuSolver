@@ -5,7 +5,7 @@ Solve Sudoku puzzle
 Project Visual Studio 2010. Language C#
 
 
-![SudokuSolver](/screenshots/screenshot.png "SudokuSolver")
+![SudokuSolver](/screenshot/screenshot.png "SudokuSolver")
 
 LICENSE
 =======
